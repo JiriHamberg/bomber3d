@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bomber-blocks.iml" filepath="$PROJECT_DIR$/.idea/modules/bomber-blocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bomber-blocks-build.iml" filepath="$PROJECT_DIR$/.idea/modules/bomber-blocks-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/client.iml" filepath="$PROJECT_DIR$/.idea/modules/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/client-build.iml" filepath="$PROJECT_DIR$/.idea/modules/client-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common-sources.iml" filepath="$PROJECT_DIR$/.idea/modules/common-sources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/commonJS.iml" filepath="$PROJECT_DIR$/.idea/modules/commonJS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/commonJS-build.iml" filepath="$PROJECT_DIR$/.idea/modules/commonJS-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/commonJVM.iml" filepath="$PROJECT_DIR$/.idea/modules/commonJVM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/commonJVM-build.iml" filepath="$PROJECT_DIR$/.idea/modules/commonJVM-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server.iml" filepath="$PROJECT_DIR$/.idea/modules/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server-build.iml" filepath="$PROJECT_DIR$/.idea/modules/server-build.iml" />
+    </modules>
+  </component>
+</project>

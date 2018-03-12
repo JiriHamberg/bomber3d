@@ -1,0 +1,30 @@
+*.class
+*.log
+
+# sbt specific
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+.history
+.cache
+.lib/
+project/target/
+
+# Scala-IDE specific
+.scala_dependencies
+.classpath
+.project
+.cache
+.settings
+
+# IntelliJ specific
+#.idea/
+#.idea_modules/
+**/.idea/workspace.xml
+**/.idea/tasks.xml
+
+# Scala.js spesific
+server/src/main/webapp/assets/

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: org.atmosphere:atmosphere-redis:2.4.4:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.atmosphere/atmosphere-redis/bundles/atmosphere-redis-2.4.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.atmosphere/atmosphere-redis/srcs/atmosphere-redis-2.4.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
