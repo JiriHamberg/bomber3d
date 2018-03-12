@@ -1,9 +1,7 @@
-Template for scalajs frontend and Scalatra backend
+3D Bomberman-like game
 ====================
 
-based on g8 template by `takezoe/scalatra-scalajs.g8`
-
-Contains a project template for IntelliJ IDEA
+The purpose of this project is to teach myself some WebGL and Scala.js
 
 ## Usage
 
@@ -14,5 +12,4 @@ $ sbt compileAll
 $ sbt ~server/jetty:start
 ```
 
-Open http://localhost:8080/ in a browser.
 
