@@ -5,11 +5,11 @@ The purpose of this project is to teach myself some WebGL and Scala.js
 
 ## Usage
 
-You can create and run a project as following:
+To build the project and run the webserver:
 
 ```
 $ sbt compileAll
-$ sbt ~server/jetty:start
+$ sbt server/jetty:start
 ```
 
 
